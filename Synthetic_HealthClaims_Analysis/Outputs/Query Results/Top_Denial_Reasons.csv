@@ -1,0 +1,9 @@
+Reason_Code,denial_count
+Incorrect billing information,49
+Authorization not obtained,48
+Pre-existing condition,45
+Patient eligibility issues,41
+Lack of medical necessity,40
+Duplicate claim,40
+Missing documentation,37
+Service not covered,28
