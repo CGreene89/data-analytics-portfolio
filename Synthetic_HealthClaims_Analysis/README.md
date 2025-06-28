@@ -38,9 +38,6 @@ Synthetic health insurance claims data containing 1,000 records with fields incl
   `queries/top_denial_reasons.sql`
 - **Output:**  
   `outputs/query_results/denial_reasons.csv`
-- **Visualization:**  
-  ![Top Denial Reasons](outputs/visualizations/top_denials.png)
-
 ---
 
 ### 2️⃣ Which Insurance Types Have the Most Denied Claims Requiring Follow-Up?
@@ -50,9 +47,6 @@ Synthetic health insurance claims data containing 1,000 records with fields incl
   `queries/denial_by_insurance_followup.sql`
 - **Output:**  
   `outputs/query_results/followup_by_insurance.csv`
-- **Visualization:**  
-  ![Denials by Insurance Type](outputs/visualizations/denials_by_insurance.png)
-
 ---
 
 ### 3️⃣ Which Diagnosis Codes Are Associated with Higher Denial Rates?
@@ -62,9 +56,6 @@ Synthetic health insurance claims data containing 1,000 records with fields incl
   `queries/diagnosis_denial_rate.sql`
 - **Output:**  
   `outputs/query_results/diagnosis_denial_rate.csv`
-- **Visualization:**  
-  ![Denial Rate by Diagnosis](outputs/visualizations/denial_rate_by_diagnosis.png)
-
 ---
 
 ## ⚙️ Tools & Technologies
@@ -84,5 +75,4 @@ Synthetic health insurance claims data containing 1,000 records with fields incl
 
 ---
 
-## 📂 Folder Structure
 
